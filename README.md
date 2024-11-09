@@ -1,4 +1,4 @@
-# Dividen-Capture-Strategy-Analysis
+# Dividend Capture Strategy Analysis
 
 ## Overview
 This project explores the Dividend Capture Strategy, examining the returns of buying stocks before their ex-dividend date, collecting the dividend, and selling afterward. Using a dataset of stock dividend events and market data, the project assesses if this strategy yields positive, risk-adjusted returns, especially after accounting for transaction costs and market risks.
